@@ -1,0 +1,13 @@
+{
+  "name": "@backlight-dev/project30in30.blank-m5aj0chr",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve qGmNdWz9dMMeT4qljBSv --open"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}
